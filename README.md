@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Korea University.
-Major - Business Administration.
+Major 
+- Business Administration.
 Interest.
 - ERP Consulting, 
 - AI Consulting - ML, DL, LLM, etc 
